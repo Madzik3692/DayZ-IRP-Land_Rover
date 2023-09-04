@@ -1,0 +1,36 @@
+Trader & Vehicle Parts-COTols
+<Trader> Vehicles Trader
+<Category> Vehicles
+CrSk_Land_Rover_Defender_110, 		VNK, 80000, 70000
+CrSk_Land_Rover_Defender_110_Green, 	VNK, 80000, 70000
+CrSk_Land_Rover_Defender_110_UN, 	VNK, 80000, 70000
+CrSk_Land_Rover_Defender_110_Red, 	VNK, 80000, 70000
+
+<Category> Vehicle Parts
+Defender110_dver_1_1,			 *, 500, 250
+Defender110_dver_2_1,			 *, 500, 250
+Defender110_dver_1_2, 			 *, 500, 250
+Defender110_dver_2_2,			 *, 500, 250
+Defender110_dver_1_1_Green, 		 *, 500, 250
+Defender110_dver_2_1_Green, 		 *, 500, 250
+Defender110_dver_1_2_Green, 		 *, 500, 250
+Defender110_dver_2_2_Green,		 *, 500, 250
+Defender110_dver_1_1_UN, 		 *, 500, 250
+Defender110_dver_2_1_UN, 		 *, 500, 250
+Defender110_dver_1_2_UN,		 *, 500, 250
+Defender110_dver_2_2_UN, 		 *, 500, 250
+Defender110_dver_1_1_Red,		 *, 500, 250
+Defender110_dver_2_1_Red, 		 *, 500, 250
+Defender110_dver_1_2_Red,		 *, 500, 250
+Defender110_dver_2_2_Red,		 *, 500, 250
+Defender110_kapot,			 *, 500, 250
+Defender110_kapot_Green,		 *, 500, 250
+Defender110_kapot_UN,			 *, 500, 250
+Defender110_kapot_Red,			 *, 500, 250
+Defender110_bagazhnik,			 *, 500, 250
+Defender110_bagazhnik_Green,		 *, 500, 250
+Defender110_bagazhnik_UN,		 *, 500, 250
+Defender110_bagazhnik_Red,		 *, 500, 250
+
+Defender110_koleso,			 *, 500, 250
+ProxyDefender110_koleso_destroyed,	 *, 500, 250
